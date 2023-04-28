@@ -1,0 +1,5 @@
+Test-NetConnection -ComputerName '10.240.21.108' -InformationLevel "Detailed" -Port 990
+
+########
+####################
+%%%%%%%%%%%%%%%%%5
